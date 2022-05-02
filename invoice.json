@@ -1,0 +1,22 @@
+{
+  "invoices": [
+    {
+      "id": 1,
+      "date": "2022-04-04",
+      "balance": "100.00",
+      "billForm": "Emmanuel",
+      "amount": [
+        {
+          "item": "",
+          "quantity": 1,
+          "rate": "100",
+          "amount": "100.00"
+        }
+      ],
+      "discount": 10,
+      "tax": 10,
+      "shipping": "10",
+      "amountpaid": "10"
+    }
+  ]
+}

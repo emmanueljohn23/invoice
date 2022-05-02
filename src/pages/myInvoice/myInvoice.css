@@ -1,0 +1,141 @@
+body {
+    background-color: #E9ECEF;
+}
+.div_sec2 {
+    background-color: white;
+    width: 600px;
+    height: 500px;
+    margin-top: 60px;
+    margin-left: 400px;
+    display: flex;
+    flex-direction: column;
+    padding:  40px;
+    border-radius: 5px;
+}
+.del-icon-span{
+    position: relative;
+    bottom: 14px;
+    height: 15px;
+    left: 30px;
+}
+
+.invoice-del-icon {
+    height: 15px;
+
+}
+.invoice_para {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight:100;
+}
+
+.span-img {
+     width: 10px; 
+     height: 10px;
+    position: relative;
+    bottom: 22px;  
+     left: 10px; 
+}
+.search-icon {
+    height: 10px;
+    position: relative;
+    width: 18px; 
+
+}
+
+.invoice_input {
+    border-radius: 4px;
+    width: 470px;
+    height: 35px;
+    background-color: #E9ECEF;
+    border: none;
+}
+.invoice_input:focus {
+    border: none;
+    outline: none;
+}
+
+.btn-div{
+    
+    margin: 0px;
+    padding: 0px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.invoice_button {
+    margin-top: 20px;
+    width: 120px;
+    height: 110px;
+    border-radius: 8px;
+    border: 1px solid #009e74;
+    background-color:#f1faf9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 18px;
+    margin-left: 20px;
+}
+
+
+.invoice_h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.invoice_para2 {
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.invoice_span {
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.invoicebtn-div {
+    display: flex;
+    width: 350px;
+    margin-top: 150px;
+    margin-left: 190px;
+    justify-content: space-around;
+
+}
+
+.invoice-btn1{
+    font-size: 12px;
+    font-weight:bold;
+    width: 155px;
+    border: 1px solid #009e74;
+    border-radius: 24px;
+    height: 40px;
+    color: white;
+    background-color:#009e74;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 25px;
+}
+
+.invoice-btn2{
+    font-size: 12px;
+    font-weight:bold;
+    width: 155px;
+    border: 1px solid #009e74;
+    border-radius: 24px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding-left: 35px;
+    background-color: white;
+    color: #009e74;
+}
+
+.export-icon {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 40px;
+    top: 10px;
+}
